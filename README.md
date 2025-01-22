@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**huaier007/huaier007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Basic Info
+ Hi there 👋,I am huaier (github username huaier007 is just for avoidiling duplicate with an existing username),a student currently studying Information Security Technology Application.
+- 💕[AshGrey](https://github.com/AshGreyG),he is my best friend, my boyfriend, my husband and my soulmate.He is my eternal and unchanging spring in my soul. 
+- 🌱 I’m currently learning Cryptography,common lisp,besides,I am actively participating in CTF competitions.
+- 🎵I enjoy listening to math rock,I have also fantasized about forming a rock band.
+- 🔭I enjoy exporing interesting and novel things online,I hope I can gain something.
+- Recent goals   
+    - build my own website  
+    - win awards in competitions  
+    - strive for excellent grades to obtain a scholarship  
+    - ...
+- ultimate goal  
+    - gain a sense of happiness together with [AshGrey](https://github.com/AshGreyG)
